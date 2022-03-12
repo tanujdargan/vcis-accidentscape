@@ -14,7 +14,7 @@ We faced multiple problems through the course of developing this prohject, for e
 
 <h1 align="center"> How We Built Out Project? </h1>
 
-<img src="https://raw.githubusercontent.com/tanujdargan/vcis-accidentscape/main/progress.jpg" align="center"/>
+<img src="https://raw.githubusercontent.com/tanujdargan/accidentscape/main/mindamp.png?token=GHSAT0AAAAAABSBHTQMUZK5F4Q5OLPNHBDMYRWL2CA" align="center"/>
 
 
 <h1 align="center"> Overview </h1>
@@ -31,3 +31,5 @@ Smart Accident Prevention Using Raspberry Pi 3B+, OpenCV and Dlib
 * Scipy
 * Numpy
 * Imutils 
+
+

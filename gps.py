@@ -13,8 +13,9 @@ while True:
 		newmsg=pynmea2.parse(newdata)
 		lat=newmsg.latitude
 		lng=newmsg.longitude
+		ct=newmsg.time
 		gps = "Latitude=" + str(lat) + "and Longitude=" + str(lng)
 		print(gps)
-with open("example.csv", "a") as file:
+with open("datapts.csv", "a") as file:
     file.write(str(lat) + "," + str(lng) + "\n")
     file.close()

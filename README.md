@@ -1,6 +1,6 @@
 <img src="https://img.search.brave.com/FYZv7tc4rXgB7MBBlx_5fpPs5nty8vxddZHTgHMk5Es/rs:fit:256:256:1/g:ce/aHR0cHM6Ly93d3cu/cmFzcGJlcnJ5cGku/b3JnL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDEyLzAxL1NwZWMt/UmFzcGJlcnJ5UGkt/R0lGLTI1Ni1UcmFu/c3AuZ2lm.gif" width="70" height="70" align="left"/> <img src="https://img.search.brave.com/EqqdMAUAljyJNtFZXbZmuPjWk-rG3eYXr5RXcvBcgfQ/rs:fit:480:320:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvUkRKZk9T/T2Rsbmh1L2dpcGh5/LmdpZg.gif" width="60" height="60" align="right" />
 
-<h1 align="center">Innovators Convention 2022 Gallant Gladiators Project</h1>
+<h1 align="center">Accident Scape</h1>
 
 
 Smart Accident Prevention Using Raspberry Pi 3B+, OpenCV and Dlib
